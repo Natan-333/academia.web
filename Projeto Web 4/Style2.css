@@ -1,0 +1,48 @@
+
+    body {
+        background-color: #F0F0F0;
+        font-family: Arial, sans-serif;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 36px;
+        color: #1ad08d;
+        margin-top: 50px;
+    }
+
+    h2 {
+        font-size: 24px;
+        color: #333;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-size: 20px;
+        color: #333;
+        margin-right: 20px;
+    }
+
+    input[type=text], input[type=password] {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        font-size: 18px;
+        width: 250px;
+    }
+
+    input[type=submit] {
+        background-color: #1ad08d;
+        color: #FFF;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+        background-color: #FF6347;
+    }
